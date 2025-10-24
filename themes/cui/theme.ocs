@@ -1,0 +1,6 @@
+{
+  "type": "orbix theme config",
+  "theme_types": [{"name": "compressed_official", "binary": true}],
+  "theme_name": "cui",
+  "theme_description": "Compact User Interface"
+}
